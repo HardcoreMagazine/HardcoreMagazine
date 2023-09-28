@@ -7,7 +7,7 @@ My name is Edward, I am a recent CS graduate with a bachelor's degree. As a rook
 Currently I'm working on [SelenicSpark web application](https://github.com/HardcoreMagazine/SelenicSparkApp). First stage of the project has been completed, and I'm trying to move from old MVC architecture to more modern styles, like modular/microservices.  
 
 
-I'm sharpening my skills in web app development (ASP.NET). However, I'm not limiting research to C#, I'm also expanding my knowledge in the Python field, particularly in areas, related to web development (back-end).  
+I'm sharpening my skills in web app development (ASP.NET). However, I'm not limiting research to C#, but also expanding my knowledge in the Python field, particularly in areas, related to web development (back-end).  
 
 
 *Thank you for visiting my Github profile. Feel free to browse my projects and connect with me on [Telegram](https://t.me/hardcoremagazine) or by leaving an issue on this repository.*  
