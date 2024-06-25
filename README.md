@@ -6,7 +6,7 @@ My name is Edward, I am a CS graduate with a bachelor's degree. I have a passion
 
 Currently working on SelenicSpark web app. Project has 3 "stages": 
 1. Boxed: ASP.NET/MVC + internal in-memory DB + out-of-box Auth services ([ref](https://github.com/HardcoreMagazine/SelenicSparkApp))
-2. Modular: AngularTS + .NET WebAPI (swagger) + MySQL ([ref-front](https://github.com/HardcoreMagazine/SelenicSparkApp_v2_Angular), [ref-back](https://github.com/HardcoreMagazine/SelenicSparkApp_v2_WebAPI))
+2. Modular: AngularTS + .NET WebAPI (swagger) + MySQL ([ref-front](https://github.com/HardcoreMagazine/SelenicSparkApp_v2_Angular), [ref-back](https://github.com/HardcoreMagazine/SelenicSparkApp_v2_WebAPI)) // abandoned - lost interest
 3. Clustered: ReactTS + .NET WebAPI microservices + PostgreSQL ([ref](https://github.com/HardcoreMagazine/SelenicSparkApp3))
 
 
