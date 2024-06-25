@@ -1,7 +1,7 @@
 ## Hi there 👋  
 
 
-My name is Edward, I am a CS graduate with a bachelor's degree. As a rookie developer, I have a passion for exploring the latest technology, libraries, tools, and everything in between. Whether it's contributing to open-source projects or experimenting with new technologies, I'm always eager to dive in and learn something new.  
+My name is Edward, I am a CS graduate with a bachelor's degree. I have a passion for exploring the latest technology, libraries, tools, and everything in between. Whether it's contributing to open-source projects or experimenting with new technologies, I'm always eager to dive in and learn something new.  
 
 
 Currently working on SelenicSpark web app. Project has 3 "stages": 
