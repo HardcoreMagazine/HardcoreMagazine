@@ -13,4 +13,4 @@ Currently working on SelenicSpark web app. Project has 3 "stages":
 I'm sharpening my skills in web app development (ASP.NET). However, I'm not limiting research to C#, but also expanding my knowledge in the Python field. Nothing in particular though, it's just another automation tool. 
 
 
-*Thank you for visiting my Github profile. Feel free to browse my projects and connect with me on [Telegram](https://t.me/hardcoremagazine) or by leaving an issue on this repository.*  
+*Thank you for visiting my Github profile. Feel free to browse my projects and connect with me on [Telegram](https://t.me/hardcoremagazine) or by leaving an issue on [this repository](https://github.com/HardcoreMagazine/HardcoreMagazine/issues).*  
