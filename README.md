@@ -10,7 +10,7 @@ Currently working on SelenicSpark web app. Project has 3 "stages":
 3. Clustered: ReactTS + .NET WebAPI microservices + PostgreSQL ([ref](https://github.com/HardcoreMagazine/SelenicSparkApp3)) // in progress
 
 
-I'm sharpening my skills in web app development (ASP.NET). However, I'm not limiting research to C#, but also expanding my knowledge in the Python field. Nothing in particular though, it's just another automation tool. 
+I'm mostly sharpening my skills in web app development (ASP.NET). Yet, I'm not limiting my research to .NET C#, but also expanding my knowledge in the Python field. Nothing in particular though, just another automation tool. 
 
 
 *Thank you for visiting my Github profile. Feel free to browse my projects and connect with me on [Telegram](https://t.me/hardcoremagazine) or by leaving an issue on [this repository](https://github.com/HardcoreMagazine/HardcoreMagazine/issues).*  
